@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="dashboard-container">
+    <div class="dashboard-card">
+
+      <h1 class="logo">PinkShield</h1>
+      <h2 id="user-role"></h2>
+
+      <div class="permissions-section">
+        <h3>Your Permissions</h3>
+        <div id="permissions"></div>
+      </div>
+
+      <div class="actions-section">
+        <h3>Admin Actions</h3>
+        <div id="actions"></div>
+      </div>
+
+      <div id="users-container"></div>
+
+      <button id="logout-btn" class="primary-btn">Logout</button>
+
+    </div>
+  </div>
+
+  <script src="js/api.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
