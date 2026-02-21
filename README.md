@@ -14,14 +14,14 @@ This project implements a production-style authorization architecture with dynam
 
 ---
 
-## 🚀 Live Deployment
+## Live Deployment
 
 Backend: Render  
 Frontend: Netlify  
 
 ---
 
-## 🧠 Core Concepts Implemented
+## Core Concepts Implemented
 
 ### Authentication
 - User registration
@@ -164,7 +164,7 @@ Make sure `API_BASE` inside `frontend/js/api.js` points to your backend URL.
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 ### Backend (Render)
 - Root Directory: `backend`
