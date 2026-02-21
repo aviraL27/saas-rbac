@@ -1,4 +1,4 @@
-const API_BASE = "https://saas-rbac-api.onrender.com/";
+const API_BASE = "https://saas-rbac-api.onrender.com";
 
 /* ========= TOKEN HELPERS ========= */
 
